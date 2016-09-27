@@ -1,0 +1,2 @@
+# cophomo
+collaborative photo mosaics..?
